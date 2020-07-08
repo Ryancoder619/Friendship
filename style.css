@@ -1,0 +1,23 @@
+.header{
+	background-color:black;
+	color:blue;
+	font-family:algerian;
+	text-align:center;
+}
+.cartoon{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	
+}
+img{
+	opacity:0.2;
+}
+img:hover{
+	opacity:1;
+}
+P{
+	text-align:center;
+	font-family:algerian;
+	font-size:25px;
+}
